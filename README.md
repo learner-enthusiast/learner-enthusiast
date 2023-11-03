@@ -21,14 +21,13 @@ Important Links:
 4.Blog:Work in Progress
 
 Skills:
-1.Web Developement:React.js,Node.js,HTML,CSS,JS
+1.Web Developement:React.js,HTML,CSS,JS
 2.Languages:Python,HTML,CSS,JS
-3.Database:MongoDB,MySQL
-4.Tools:Git,Postman,Adobe Photoshop,Adobe Premiere Pro
+3.Tools:Git,Adobe Photoshop,Adobe Premiere Pro
 
 Projects:
-
-
+1.Swiggy CLone
+2.Netflix Clone with integrated chat GPT
 
 Recent Activity
 
