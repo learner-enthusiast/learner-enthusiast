@@ -11,8 +11,7 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React-js" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="45" height="55"/>
-       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" width="45" height="55"/>
-  </p>
+       </p>
 
   # My GitHub Stats
 
