@@ -1,5 +1,5 @@
 # Hi there I am Arnab a Full-Stack Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<br><img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif"><br>🔭 I’m currently learning React-Native and Postgres-SQL.<br>👯 I’m looking to collaborate on Backend  Projects<br>
+<br><img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif"><br>🔭 I’m currently learning Flutter and Postgres-SQL.<br>👯 I’m looking to collaborate on Backend  Projects<br>
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="65" height="65" />
