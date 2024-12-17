@@ -1,5 +1,10 @@
-# Hi there I am Arnab , a Full-Stack Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  
-<br><img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif"><br>🔭 I’m currently learning Flutter and Postgres-SQL.<br>👯 I’m looking to collaborate on Backend Projects.<br>  
+# Hi there, I am **Arnab**, a Full-Stack Enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  
+<br>  
+<img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif">  
+
+🔭 **Currently Learning**: React Native, PostgreSQL with Prisma  
+👨‍💻 **Currently Working As**: Full Stack Engineer Intern at [Techdome Solutions Pvt. Ltd.](https://techdome.io/)  
+👯 **Looking to Collaborate On**: Backend Projects  
 
 ---
 
@@ -22,25 +27,36 @@
 
 ---
 
+## 💻 Tech Stack I Use  
+
 <p align="center">  
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="65" height="65" />  
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/>  
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React-js" width="45" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="65" height="65" />  
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="65" height="65"/>  
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="45" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="45" height="55"/>  
 </p>  
 
 ---
 
-# My GitHub Stats  
+## 📊 My GitHub Stats  
 
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnb-smnta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  
+### Overall Stats:  
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnb-smnta&show_icons=true&include_all_commits=true&theme=dark&hide_border=false)  
 
+### Contributions & Streaks:  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arnb-smnta&theme=dark&hide_border=false)  
 
+### Top Languages:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnb-smnta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+### Achievements:  
 ![](https://github-profile-trophy.vercel.app/?username=arnb-smnta&theme=chalk&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+💬 **Let's connect! Feel free to reach out for collaboration, discussions, or new opportunities.** 🚀  
