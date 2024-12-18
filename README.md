@@ -11,7 +11,7 @@
 ## 🚀 My Open Source Contribution  
 
 ### 🌟 Contributed to **API Hub** by Hitesh Choudhary  
-[API Hub](https://freeapi.app) is an open-source project with over **3K stars on GitHub**, built using **Node.js**, **ReactJS**, **MongoDB**, and **Express**.  
+[API Hub](https://freeapi.app) is an open-source project with over **7K stars on GitHub**, built using **Node.js**, **ReactJS**, **MongoDB**, and **Express**.  
 
 #### My Key Contributions:  
 - Developed a **Chat Deletion API** to handle the removal of text chats and attachments with **Multer** for file handling.  
