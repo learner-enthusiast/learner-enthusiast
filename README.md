@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/57105611/210224861-db9f86fa-76c4-4b09-85ba-e3908b91d4ee.gif">  
 
 🔭 **Currently Learning**: React Native, PostgreSQL with Prisma  
-👨‍💻 **Currently Working As**: Full Stack Engineer Intern at [Techdome Solutions Pvt. Ltd.](https://techdome.io/)  
 👯 **Looking to Collaborate On**: Backend Projects  
 
 ---
