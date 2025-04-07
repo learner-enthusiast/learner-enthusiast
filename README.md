@@ -45,16 +45,16 @@
 ## 📊 My GitHub Stats  
 
 ### Overall Stats:  
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnb-smnta&show_icons=true&include_all_commits=true&theme=dark&hide_border=false)  
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=learner-enthusiast&show_icons=true&include_all_commits=true&theme=dark&hide_border=false)  
 
 ### Contributions & Streaks:  
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnb-smnta&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=dark&hide_border=false)  
 
 ### Top Languages:  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnb-smnta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ### Achievements:  
-![](https://github-profile-trophy.vercel.app/?username=arnb-smnta&theme=chalk&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=learner-enthusiast&theme=chalk&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
