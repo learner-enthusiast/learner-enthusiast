@@ -159,11 +159,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=learner-enthusiast&theme=tokyonight)](https://git.io/streak-stats)
-
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
