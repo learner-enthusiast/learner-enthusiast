@@ -160,9 +160,9 @@
 
 </div>
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=learner-enthusiast&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ---
