@@ -2,7 +2,7 @@
 
 # 🚀 Full-Stack Developer | Building Scalable Web Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Django;GraphQL+%7C+MongoDB+%7C+PostgreSQL;2%2B+Years+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Django;GraphQL+%7C+MongoDB+%7C+PostgreSQL;1%2B+Years+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -152,17 +152,14 @@
 ---
 
 ## 📊 **GitHub Analytics**
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=learner-enthusiast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learner-enthusiast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=learner-enthusiast&theme=tokyonight)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
