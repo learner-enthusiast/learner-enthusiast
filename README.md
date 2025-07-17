@@ -135,8 +135,8 @@
 ### **💰 Expense Split Application**
 *Like Splitwise, but better*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://splitbills.site)
-[![Backend](https://img.shields.io/badge/API-Live-blue?style=for-the-badge&logo=heroku)](https://server.splitbills.site)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://splitunwise.fun)
+[![Backend](https://img.shields.io/badge/API-Live-blue?style=for-the-badge&logo=heroku)](https://server.splitunwise.fun)
 
 </div>
 
