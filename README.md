@@ -153,7 +153,6 @@
 
 ## 📊 **GitHub Analytics**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learner-enthusiast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 <div align="center">
