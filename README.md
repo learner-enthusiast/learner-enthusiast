@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 💼 **Currently Building At** 
+## 💼 **Worked At** 
 ### **Techdome Solutions** | Full Stack Developer Intern
 *Working on [Sparrow App](https://github.com/sparrowapp-dev/sparrow-app) - Next-gen API testing platform*
 
