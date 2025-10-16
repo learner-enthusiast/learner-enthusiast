@@ -90,7 +90,7 @@
 ## 🏢 **Professional Journey**
 
 <details>
-<summary><b>🎯 Current Role - Techdome Solutions (Dec 2024 - Present)</b></summary>
+<summary><b>🎯 Current Role - Techdome Solutions (Dec 2024 - Sep 2025)</b></summary>
 
 <br>
 
