@@ -1,8 +1,12 @@
+
+
 <div align="center">
 
-# 🚀 Full-Stack Developer | Building Scalable Web Solutions
+# 🚀 Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Django;GraphQL+%7C+MongoDB+%7C+PostgreSQL;1%2B+Years+Experience" alt="Typing SVG" />
+### **Next.js | React | Node.js | Django | Supabase | PostgreSQL**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+Node.js+%7C+Django;Supabase+%7C+PostgreSQL+%7C+GraphQL;Building+Scalable+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -10,168 +14,174 @@
 
 <div align="center">
 
-## 💼 **Worked At** 
-### **Techdome Solutions** | Full Stack Developer Intern
-*Working on [Sparrow App](https://github.com/sparrowapp-dev/sparrow-app) - Next-gen API testing platform*
+## 💼 **Experience**
 
-[![Sparrow Stars](https://img.shields.io/github/stars/sparrowapp-dev/sparrow-app?style=social&label=Sparrow%20App)](https://github.com/sparrowapp-dev/sparrow-app)
-[![API Backend](https://img.shields.io/github/stars/sparrowapp-dev/sparrow-api?style=social&label=API%20Backend)](https://github.com/sparrowapp-dev/sparrow-api)
+### 🟦 **Kayno (Coprimes)** — Software Developer Intern
+
+*Oct 2025 – Present*
+Building high-performance web applications using **Next.js, Supabase, Payload CMS, and PostgreSQL**.
+
+#### 🔹 Key Highlights
+
+* ⚡ **Reduced API response time by 3000+ ms** with optimized fetching + caching
+* 🧩 Built admin modules with **Payload CMS + TanStack Table**
+* 🔄 Implemented lightweight global state using **Zustand**
+* 🛠️ Set up **CI/CD pipelines** with GitHub Actions + cron jobs
+* 📡 Integrated **Supabase Realtime** + optimized Postgres queries
+* 🧱 Engineered scalable RSC-based components improving TTFB & SEO
+
+---
+
+### 🟣 **Techdome Solutions** — Full Stack Developer Intern
+
+*Dec 2024 – Sep 2025*
+Worked on **Sparrow App**, a next-gen API testing platform.
+
+[![Sparrow Stars](https://img.shields.io/github/stars/sparrowapp-dev/sparrow-app?style=social\&label=Sparrow%20App)](https://github.com/sparrowapp-dev/sparrow-app)
+[![API Backend](https://img.shields.io/github/stars/sparrowapp-dev/sparrow-api?style=social\&label=API%20Backend)](https://github.com/sparrowapp-dev/sparrow-api)
+
+#### 🔹 Key Highlights
+
+* ⚡ Improved UI performance by **20%** via lazy loading
+* 🛡️ Reduced API failures by **15%** with advanced error handling
+* 🔄 Migrated to **Redux**, reducing async bugs by **25%**
+* 📊 Built interactive **D3.js** data visualizations
+* 🔍 Enhanced SEO with metadata & structural optimization
 
 </div>
 
 ---
+
 <div align="center">
-      
-## 🎯 **What I Deliver**
+
+## 🎯 **Impact at a Glance**
 
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🚀 **Performance**
-**20%** UI Improvement  
-**15%** API Failure Reduction  
-**25%** Bug Reduction  
+
+Improved UI & API
+Reduced Latency
+RSC Optimization
 
 </td>
 <td align="center" width="33%">
 
 ### 🌐 **Scale**
-**1000+** Concurrent Users  
-**7K+** Star Repository  
-**6K+** Line Contributions  
+
+1000+ Users
+7K+ Star Repo
+6K+ LOC PR
 
 </td>
 <td align="center" width="33%">
 
 ### 🏆 **Recognition**
-**Top 4** Contributor  
-**Open Source** Impact  
-**Production** Ready Code  
+
+Top 4 Contributor
+Open Source Impact
+Production Ready Code
 
 </td>
 </tr>
 </table>
 </div>
 
-## ⚡ **Tech Arsenal**
+---
+
+## 🔥 **Tech Stack**
 
 <div align="center">
 
-### **Frontend Magic**
-<p>
+### **Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Svelte-orange?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### **Backend Power**
-<p>
+### **Backend**
+
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Payload_CMS-black?style=for-the-badge" />
 
-### **Database & Tools**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+### **Databases & Tools**
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 </div>
 
 ---
 
-## 🏢 **Professional Journey**
-
-<details>
-<summary><b>🎯 Current Role - Techdome Solutions (Dec 2024 - Sep 2025)</b></summary>
-
-<br>
-
-**🚀 Key Achievements:**
-- ⚡ **GraphQL Optimization** - Reduced payload sizes, improved data fetching
-- 🎨 **UI Performance** - 20% efficiency boost through lazy loading  
-- 🛡️ **Error Handling** - 15% API failure rate reduction
-- 🔄 **State Management** - Redux migration cutting async bugs by 25%
-- 📊 **Data Visualization** - Interactive D3.js charts and simulations
-- 🔍 **SEO Enhancement** - Metadata optimization for better rankings
-
-**💻 Tech Stack:** React, Redux, Django, PostgreSQL, GraphQL, Svelte, D3.js
-
-</details>
-
----
-
-## 🌟 **Open Source Impact**
+## 🌟 **Open Source Contributions**
 
 <div align="center">
 
-### **🔥 API Hub by Hitesh Choudhary**
+### **🔥 API Hub by Hitesh Choudhary (7K+ Stars)**
+
 [![GitHub stars](https://img.shields.io/github/stars/hiteshchoudhary/apihub?style=social)](https://github.com/hiteshchoudhary/apihub)
 
 </div>
 
-**🏆 Recognition:** Top 4 Contributor among 100+ developers
+### 💎 Achievements
 
-**💡 Major Contributions:**
-- 🗂️ **Chat Management API** - Secure deletion with file handling
-- ⚡ **Real-time Updates** - Live UI synchronization
-- 🔐 **Authorization System** - User permission checks
-- 📝 **6K+ Line PR** - New application module (under review)
-- 🚀 **Performance Optimization** - Reduced server load
-
----
-
-## 🚀 **Featured Project**
-
-<div align="center">
-
-### **💰 Expense Split Application**
-*Like Splitwise, but better*
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://splitunwise.fun)
-[![Backend](https://img.shields.io/badge/API-Live-blue?style=for-the-badge&logo=heroku)](https://server.splitunwise.fun)
-
-</div>
-
-**🎯 Highlights:**
-- 👥 **Scale:** Handles 1000+ concurrent users
-- 🔒 **Security:** JWT authentication + data encryption
-- 📊 **Visualization:** Interactive charts with real-time updates  
-- 📱 **Responsive:** Cross-device compatibility
-- ⚡ **Performance:** Optimized for speed and reliability
-
-**💻 Stack:** Node.js, React, MongoDB, Express, JWT, Recharts
+* Top **4th** contributor among 100+ devs
+* Built full **Chat Deletion Module**
+* Secured file handling system
+* Added **real-time sync** (WebSockets)
+* Submitted **6K+ line feature PR**
+* Reduced server load with batch ops
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🚀 **Highlighted Project**
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+
+### 💰 **Expense Split App**
+
+A Splitwise-inspired expense manager with real-time features.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://splitunwise.fun)
+
 </div>
+
+### 🔹 Features
+
+* 1000+ concurrent users
+* JWT-secured authentication
+* Encryption + validation
+* Real-time charts & insights
+* Fully responsive UI
+
+---
+
+## 📈 **GitHub Analytics**
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" />
 </div>
 
 ---
+
+<div align="center">
 
 ## 🎯 **What Sets Me Apart**
 
-<div align="center">
-
-| 💼 **Professional** | 🌟 **Open Source** | ⚡ **Performance** | 🏗️ **Architecture** |
-|:---:|:---:|:---:|:---:|
-| Production Experience | Top Contributor | 20% UI Boost | Scalable Systems |
-| Team Collaboration | Community Impact | 15% Error Reduction | 1000+ Users |
-| Agile Development | Code Reviews | Optimization Focus | Full-Stack Expertise |
+| Performance      | Architecture    | Open Source     | Scalability    |
+| ---------------- | --------------- | --------------- | -------------- |
+| 3000ms reduction | RSC design      | Top contributor | 1000+ users    |
+| API Optimization | Modular systems | PR reviews      | Real-time apps |
+| CI/CD workflows  | Clean code      | 7K stars repos  | Optimized DB   |
 
 </div>
 
@@ -179,25 +189,25 @@
 
 <div align="center">
 
-## 🎓 **Education & Growth**
-**Bachelor's in Computer Applications (BCA)** | IGNOU | 2023-2026  
-**Certifications:** Namaste React, Full Stack Web Development
+## 🎓 **Education**
 
-## 🎯 **Currently Learning**
-React Native • PostgreSQL with Prisma • Cloud Architecture
+**BCA — IGNOU (2022–2025)**
+First Division
 
----
+## 📚 **Currently Learning**
 
-### 💬 **Ready to build something amazing together?**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://arnabsamanta.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnabsmnta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnabsmnta@gmail.com)
-
-</div>
+React Native • Prisma • Cloud Architecture
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=learner-enthusiast&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+### 👋 **Let’s Build Something Amazing**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=vercel\&logoColor=white)](https://arnabsamanta.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/arnabsmnta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:arnabsmnta@gmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=learner-enthusiast&label=Profile%20views&color=0e75b6&style=flat" />
+
 </div>
