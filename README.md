@@ -91,9 +91,11 @@ Production Ready Code
 
 ---
 
-## 🔥 **Tech Stack**
-
 <div align="center">
+
+<h1> 🔥 Tech Stack </h1>
+
+
 
 ### **Frontend**
 
@@ -120,31 +122,37 @@ Production Ready Code
 </div>
 
 ---
-
-## 🌟 **Open Source Contributions**
-
 <div align="center">
+<h1> 🌟 Open Source Contributions </h1>
+
+
 
 ### **🔥 API Hub by Hitesh Choudhary (7K+ Stars)**
 
 [![GitHub stars](https://img.shields.io/github/stars/hiteshchoudhary/apihub?style=social)](https://github.com/hiteshchoudhary/apihub)
 
 </div>
-
-### 💎 Achievements
-
-* Top **4th** contributor among 100+ devs
-* Built full **Chat Deletion Module**
-* Secured file handling system
-* Added **real-time sync** (WebSockets)
-* Submitted **6K+ line feature PR**
-* Reduced server load with batch ops
-
----
-
-## 🚀 **Highlighted Project**
-
 <div align="center">
+💎 Achievements
+
+Recognized as the Top 4th contributor among 100+ active open-source developers
+
+Designed and implemented a complete Chat Deletion Module with multi-layer logic
+
+Built a secure attachment and file-handling pipeline ensuring data integrity
+
+Developed a real-time synchronization system powered by WebSockets
+
+Authored a 6,000+ line feature pull request introducing a full application module
+
+Reduced overall server load through batch operations, query optimization, and refactoring
+
+</div>
+<div align="center">
+
+<h1>🚀 Highlighted Project </h1>
+
+
 
 ### 💰 **Expense Split App**
 
@@ -153,20 +161,25 @@ A Splitwise-inspired expense manager with real-time features.
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://splitunwise.fun)
 
 </div>
+<div align="center">
+<h1>🔹 Features</h1>
 
-### 🔹 Features
+Handles 1000+ concurrent users with optimized backend performance
 
-* 1000+ concurrent users
-* JWT-secured authentication
-* Encryption + validation
-* Real-time charts & insights
-* Fully responsive UI
+Provides secure JWT-based authentication for every user session
 
----
+Ensures full data encryption and validation across all operations
 
-## 📈 **GitHub Analytics**
+Displays real-time charts, insights, and activity updates
+
+Designed with a fully responsive, mobile-first UI for all screen sizes
+
+</div>
 
 <div align="center">
+<h1> 📈 GitHub Analytics</h1>
+
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&theme=tokyonight" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" />
 </div>
