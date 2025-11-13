@@ -179,9 +179,20 @@ Designed with a fully responsive, mobile-first UI for all screen sizes
 <div align="center">
 <h1> 📈 GitHub Analytics</h1>
 
+<div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" />
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learner-enthusiast&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=learner-enthusiast&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 ---
