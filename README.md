@@ -4,7 +4,7 @@
 
 # 🚀 Full-Stack Developer
 
-### **Next.js | React | Node.js | Django | Supabase | PostgreSQL**
+### **Next.js | React | Node.js | FastAPI | PostgreSQL | MongoDB**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+Node.js+%7C+Django;Supabase+%7C+PostgreSQL+%7C+GraphQL;Building+Scalable+Systems" alt="Typing SVG" />
 
